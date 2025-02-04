@@ -24,14 +24,14 @@ WebServer/
 │   │       ├── script.js       # JavaScript file for interactivity
 │   │       └── styles.css      # CSS file for styling
 │
-├── test/
-│   ├── java/
-│   │   └── edu/
-│   │       └── escuelaing/
-│   │           ├── AppTest.java          # Unit tests for the App class
-│   │           ├── RequestTest.java      # Unit tests for the Request class
-│   │           ├── ResponseTest.java     # Unit tests for the Response class
-│   │           └── WebServerTest.java    # Unit tests for the WebServer class
+└── test/
+    └── java/
+        └── edu/
+            └── escuelaing/
+                ├── AppTest.java          # Unit tests for the App class
+                ├── RequestTest.java      # Unit tests for the Request class
+                ├── ResponseTest.java     # Unit tests for the Response class
+                └── WebServerTest.java    # Unit tests for the WebServer class
 
 ```
 
